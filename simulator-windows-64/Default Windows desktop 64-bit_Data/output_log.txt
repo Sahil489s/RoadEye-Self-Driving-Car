@@ -1,0 +1,86 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3050 6GB Laptop GPU (ID=0x25ac)
+    Vendor:   NVIDIA
+    VRAM:     6002 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.151 seconds
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.231700 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 5f8 -> priority: 1 
+  Thread -> id: 7d0 -> priority: 1 
+  Thread -> id: 442c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.954100 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.377600 ms (FindLiveObjects: 0.038700 ms CreateObjectMapping: 0.020200 ms MarkObjects: 0.285100 ms  DeleteObjects: 0.032400 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.166900 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 955.
+Total: 0.343700 ms (FindLiveObjects: 0.048500 ms CreateObjectMapping: 0.017500 ms MarkObjects: 0.252700 ms  DeleteObjects: 0.024300 ms)
+
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\ss255\Desktop\Projects_DS\Complete-Self-Driving-Car\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.849900 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 1.237400 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.010700 ms MarkObjects: 0.583800 ms  DeleteObjects: 0.617800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.509200 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1468.
+Total: 3.490000 ms (FindLiveObjects: 0.147600 ms CreateObjectMapping: 0.068700 ms MarkObjects: 1.863500 ms  DeleteObjects: 1.408600 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
